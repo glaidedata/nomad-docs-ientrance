@@ -1,4 +1,4 @@
-# Tutorial: [PROCESS_NAME] Workflow in NOMAD
+# Tutorial: iEntrance Workflow in NOMAD
 <span style="display: block; margin-top: -0.55em; margin-bottom: 0.45em; font-size: 1.150em; color: gray;"><em>Created by</em> <a href="https://www.glaidedata.com/" target="_blank" rel="noopener"><img src="assets/glaide_logo_long_white.png" alt="Glaide logo" style="height: 1.986em; vertical-align: middle;" /></a></span>
 
 This tutorial walks through a complete workflow in NOMAD, from process documentation to measurement provenance. You will create an experiment hub, document synthesis steps with structured ELN schemas, and connect parsed data to the same workflow graph. 
@@ -20,6 +20,6 @@ This tutorial walks through a complete workflow in NOMAD, from process documenta
 
 ## ⚙️ Tutorial Preparation
 
-### Open the [CLIENT_NAME] NOMAD Oasis
+### Open the iEntrance NOMAD Oasis
 
-Start the tutorial by opening the [[CLIENT_NAME] NOMAD Oasis]([OASIS_URL]){:target="\_blank"} and logging in with your existing account.
+Start the tutorial by opening the [iEntrance NOMAD Oasis]([OASIS_URL]){:target="\_blank"} and logging in with your existing account.

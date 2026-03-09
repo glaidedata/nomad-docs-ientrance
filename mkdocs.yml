@@ -1,6 +1,6 @@
-site_name: "[CLIENT_NAME] NOMAD Oasis"
+site_name: "iEntrance NOMAD Oasis"
 site_description: |
-  [PROJECT_NAME] Data Management Tutorial for NOMAD Users
+  iEntrance Data Management Tutorial for NOMAD Users
 site_author: Galide Data GmbH
 repo_url: ""
 edit_uri: ""

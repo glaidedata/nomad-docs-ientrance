@@ -1,12 +1,12 @@
-# NOMAD Oasis Maintenance Guide ([CLIENT_NAME] Deployment)
+# NOMAD Oasis Maintenance Guide (iEntrance Deployment)
 <span style="display: block; margin-top: -0.55em; margin-bottom: 0.45em; font-size: 1.150em; color: gray;"><em>Created by</em> <a href="https://www.glaidedata.com/" target="_blank" rel="noopener"><img src="assets/glaide_logo_long_white.png" alt="Glaide logo" style="height: 1.986em; vertical-align: middle;" /></a></span>
 
-This document describes the operational and maintenance procedures for the NOMAD Oasis instance deployed on the [CLIENT_NAME] server. It covers updating software components, managing images, handling certificates, applying configuration changes, and performing routine system checks.
+This document describes the operational and maintenance procedures for the NOMAD Oasis instance deployed on the iEntrance server. It covers updating software components, managing images, handling certificates, applying configuration changes, and performing routine system checks.
 
 ## 1. Updating the NOMAD Oasis Software
 
 ### 1.1 Updating the Deployment Repository
-The [CLIENT_NAME] deployment uses the following repository:
+The iEntrance deployment uses the following repository:
 
 **Deployment Repository:** [[GITHUB_REPO_URL]]([GITHUB_REPO_URL])
 
@@ -67,7 +67,7 @@ or:
 `git stash pop`
 
 ## 4. SSL Certificate Renewal
-The [CLIENT_NAME] Oasis instance uses CA-issued TLS certificates.
+The iEntrance Oasis instance uses CA-issued TLS certificates.
 
 ### 4.1 Renewal Process Overview
 

@@ -1,6 +1,6 @@
-# AK Feldhoff Oasis Documentation
+# iEntrance Oasis Documentation
 
-This repository contains the source and generated static site for the AK Feldhoff NOMAD Oasis documentation, built with MkDocs + Material.
+This repository contains the source and generated static site for the iEntrance NOMAD Oasis documentation, built with MkDocs + Material.
 
 ## Structure
 

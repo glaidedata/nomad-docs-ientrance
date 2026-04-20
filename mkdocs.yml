@@ -7,9 +7,9 @@ edit_uri: ""
 
 nav:
   - Home: index.md
-  - Tutorial: 
-    - Overview: tutorial.md
-  - Maintenance Guide: how_to.md
+  #- Tutorial: 
+  #  - Overview: tutorial.md
+  #- Maintenance Guide: how_to.md
 
 plugins:
  - search
@@ -62,7 +62,7 @@ markdown_extensions:
 
 extra:
   generator: false
-  homepage: https://nomad.pci.uni-hannover.de/nomad-oasis/gui/about/information
+  homepage: https://oasis.ientrance.eu/nomad-oasis/gui/about/information
   icon:
     repo: fontawesome/brands/github
   footer: |

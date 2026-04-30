@@ -7,6 +7,7 @@ edit_uri: ""
 
 nav:
   - Home: index.md
+  - How to Upload Data: how_to.md
   #- Tutorial: 
   #  - Overview: tutorial.md
   #- Maintenance Guide: how_to.md
@@ -22,7 +23,7 @@ theme:
     accent: '#008A67'
   font:
     text: 'Titillium Web'
-  logo: assets/nomad-logo.png
+  logo: assets/iE_logo.png
   favicon: assets/favicon.png
   features:
     - navigation.instant

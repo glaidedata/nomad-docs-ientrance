@@ -1,6 +1,4 @@
 # How to Upload and Share Your Sample Files
-<span style="display: block; margin-top: -0.55em; margin-bottom: 0.45em; font-size: 1.150em; color: gray;"><em>Created by</em> <a href="https://www.glaidedata.com/" target="_blank" rel="noopener"><img src="../assets/glaide_logo_long_white.png" alt="Glaide logo" style="height: 1.986em; vertical-align: middle;" /></a></span>
-
 Welcome to the iEntrance NOMAD Oasis!
 
 Follow these steps to securely upload your data, attach the necessary context, and share it with our review team.

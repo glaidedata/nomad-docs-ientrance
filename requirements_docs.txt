@@ -3,3 +3,4 @@ mkdocs-material==8.1.1
 pymdown-extensions
 mkdocs-click
 mkdocstrings-python
+mkdocs-macros-plugin

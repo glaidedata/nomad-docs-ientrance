@@ -9,6 +9,7 @@ nav:
   - Home: index.md
   - How-to:
     - Upload and Share Sample Files: how-to/upload-and-share-sample-files.md
+    - Upload instrument data: how-to/use-nexus-dataconverter-for-experimental-data.md
   - Reference:
     - Supported Instruments: reference/supported-instruments.md
 

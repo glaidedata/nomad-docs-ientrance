@@ -9,6 +9,7 @@ dependencies = [
   "pymdown-extensions",
   "mkdocs-click",
   "mkdocstrings-python",
+  "mkdocs-macros-plugin",
 ]
 
 [tool.uv]

@@ -104,3 +104,19 @@
 .nomad-button--card-action {
     margin: 1em 0 0 0 !important;
 }
+
+.ie-site-title {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.ie-site-title__logo {
+    height: 32px;
+    width: auto;
+    display: inline-block;
+}
+
+.ie-site-title__text {
+    font-weight: 700;
+}

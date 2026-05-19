@@ -7,12 +7,15 @@ edit_uri: ""
 
 nav:
   - Home: index.md
-  #- Tutorial: 
-  #  - Overview: tutorial.md
-  #- Maintenance Guide: how_to.md
+  - How-to:
+    - Upload and Share Sample Files: how-to/upload-and-share-sample-files.md
+    - Upload instrument data: how-to/use-nexus-dataconverter-for-experimental-data.md
+  - Reference:
+    - Supported Instruments: reference/supported-instruments.md
 
 plugins:
  - search
+ - macros
 
 theme:
   name: material

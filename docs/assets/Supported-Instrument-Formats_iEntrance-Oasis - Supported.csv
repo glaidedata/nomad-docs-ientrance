@@ -70,6 +70,8 @@ nomad-measurements-thermal,Thermal analysis (dilatometry-focused parser logic),G
 ,,,,,,,
 nomad-measurements-raman,Raman spectroscopy,Renishaw,.wdf,Auto-detection (MatchingParser),Requires Renishaw raw file in .wdf format,https://github.com/glaidedata/nomad-measurements-raman,Source-code + tests confirmed
 ,,,,,,,
+nomad-measurements-ald, Atomic Layer Deposition (ALD), - ,.txt ,Auto-detection (MatchingParser), Requires raw file in .txt format; parser additionally requires 'System Name' and 'System Configurations' and 'Communication Data' in file content,https://github.com/glaidedata/nomad-measurements-ald,Source-code + tests confirmed
+,,,,,,,
 characterization_utilities (Characterization-utilities_DEV),Electron microscopy,FEI Helios / FEI Titan / Tescan (tag-driven matcher routes),Primarily TIFF / .tif; non-TIFF image fallback exists,Create from schema -> EmStepConverter,em_convert/parser.py uses tifffile metadata for full mapping; TEM handling currently through TIFF path,https://github.com/sd-fbk/Characterization-utilities.git,Source-code confirmed
 characterization_utilities (Characterization-utilities_DEV),XRD,Rigaku MiniFlex route (reader-based),.rasx,Create from schema -> IPCB_XRDStepReader,xrd_reader.py calls fairmat_readers_xrd.read_rigaku_rasx,https://github.com/sd-fbk/Characterization-utilities.git,Source-code confirmed
 characterization_utilities (Characterization-utilities_DEV),XRD,Rigaku legacy text export route,legacy log/scan text (effectively .txt),Create from schema -> IPCB_XRDStepConverter,xrd_schema.py detects markers like #Intensity_unit=cps and extracts XY data; NeXus output produced,https://github.com/sd-fbk/Characterization-utilities.git,Source-code confirmed

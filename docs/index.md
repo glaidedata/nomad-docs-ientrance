@@ -6,6 +6,7 @@ This documentation helps you use the iEntrance NOMAD Oasis.
 
 - [How-to: Upload and share sample files](how-to/upload-and-share-sample-files.md)
 - [How-to: Upload instrument data](how-to/use-nexus-dataconverter-for-experimental-data.md)
+- [How-to: Link instruments to measurements](how-to/link-instruments.md)
 - [Reference: Supported instruments](reference/supported-instruments.md)
 
 ## Need More Help?
